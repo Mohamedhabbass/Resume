@@ -1,1 +1,1 @@
-# Resume
+Website folder generated from Mohamed Hifzallaa's resume. Replace index.html, style.css and resume.pdf in the GitHub Resume repository.
