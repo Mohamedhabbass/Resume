@@ -1,1 +1,1 @@
-Website folder generated from Mohamed Hifzallaa's resume. Replace index.html, style.css and resume.pdf in the GitHub Resume repository.
+Built from the new Interface Engineer resume. Replace index.html, style.css and resume.pdf in the GitHub Resume repository.
